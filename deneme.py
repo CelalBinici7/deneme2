@@ -1,1 +1,1 @@
-Merhaba , Yeniden Merhaba
+print "Merhaba , Yeniden Merhaba"
